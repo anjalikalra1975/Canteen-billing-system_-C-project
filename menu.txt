@@ -1,0 +1,8 @@
+101,Coffee (Small),30.00
+102,Tea (Regular),20.00
+201,Veg Sandwich,65.00
+202,Paneer Roll,90.00
+203,Samosa (1 Pc),15.00
+301,Cold Drink (Can),45.00
+302,Water Bottle (L),25.00
+401,French Fries,70.00
